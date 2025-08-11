@@ -2,6 +2,8 @@
 
 Machine Learning projects developed during Microsoft Türkiye internship - Sleep efficiency prediction model
 
+Mentor: Barboros Gunay
+
 ## Project Objectives
 
 Predict sleep efficiency using machine learning algorithms. Identify key factors affecting sleep quality. Develop a practical tool for sleep quality assessment. Apply data science skills in a real-world corporate environment.
